@@ -1,5 +1,34 @@
-#Titulo{
-    background-image: url(img/Fondo_P_P.png);
-    color: black;
+body{
+    background-color: rgba(0, 0, 0, 0.04);
+    }
 
+#fondo{
+    background-image: url(https://img.lovepik.com/background/20211022/large/lovepik-technological-background-image_402010515.jpg);
+    background-size:cover ;
+    padding: 50px;
+}
+#Titulo{
+    font-family: "Playfair Display";
+    font-size: 80px;
+    color: aliceblue;
+    text-align: center;
+    margin: 0px;
+}
+
+#nombre{
+    font-family: "Open Sans";
+    font-size: 35px;
+    color: black;
+    text-align: center;
+    margin: 35px 0px;
+}
+#foto_perfil{
+    text-align: center;
+}
+
+#inf{
+    font-family: "Forum";
+    font-size: 40px;
+    color: black;
+    text-align: center;
 }
