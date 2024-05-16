@@ -17,7 +17,7 @@ body{
 
 #nombre{
     font-family: "Open Sans";
-    font-size: 35px;
+    font-size: 30px;
     color: black;
     text-align: center;
     margin: 35px 0px;
@@ -28,7 +28,7 @@ body{
 
 #inf{
     font-family: "Forum";
-    font-size: 40px;
+    font-size: 35px;
     color: black;
     text-align: center;
 }
